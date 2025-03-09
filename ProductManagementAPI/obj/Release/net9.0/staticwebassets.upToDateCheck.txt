@@ -1,0 +1,6 @@
+C:\Users\winni\OneDrive\Desktop\Web-Test-Le-Hoai-Nam\ProductManagementAPI\wwwroot\script.js
+C:\Users\winni\OneDrive\Desktop\Web-Test-Le-Hoai-Nam\ProductManagementAPI\wwwroot\index.html
+C:\Users\winni\OneDrive\Desktop\Web-Test-Le-Hoai-Nam\ProductManagementAPI\wwwroot\styles.css
+wwwroot\index.html
+wwwroot\script.js
+wwwroot\styles.css

@@ -1,0 +1,1042 @@
+{
+  "Version": 1,
+  "Hash": "6306lziA4JXYI3kMmVhxywGOrY4zx+m6jNo5TBdfEEU=",
+  "Source": "ProductManagementAPI",
+  "BasePath": "_content/ProductManagementAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProductManagementAPI\\wwwroot",
+      "Source": "ProductManagementAPI",
+      "ContentRoot": "C:\\Users\\winni\\OneDrive\\Desktop\\Web-Test-Le-Hoai-Nam\\ProductManagementAPI\\wwwroot\\",
+      "BasePath": "_content/ProductManagementAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\winni\\OneDrive\\Desktop\\Web-Test-Le-Hoai-Nam\\ProductManagementAPI\\obj\\Release\\net9.0\\compressed\\0h0nugvl6e-ngxg0mvr7f.gz",
+      "SourceId": "ProductManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\winni\\OneDrive\\Desktop\\Web-Test-Le-Hoai-Nam\\ProductManagementAPI\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/ProductManagementAPI",
+      "RelativePath": "script#[.{fingerprint=ngxg0mvr7f}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\winni\\OneDrive\\Desktop\\Web-Test-Le-Hoai-Nam\\ProductManagementAPI\\wwwroot\\script.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "d447sndwpz",
+      "Integrity": "nTgImHDTl/kzCH4a3HETlwn2vkU+doTIQVJqdubCNVo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\winni\\OneDrive\\Desktop\\Web-Test-Le-Hoai-Nam\\ProductManagementAPI\\wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\winni\\OneDrive\\Desktop\\Web-Test-Le-Hoai-Nam\\ProductManagementAPI\\obj\\Release\\net9.0\\compressed\\u05wrljy9l-jx4141h1om.gz",
+      "SourceId": "ProductManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\winni\\OneDrive\\Desktop\\Web-Test-Le-Hoai-Nam\\ProductManagementAPI\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/ProductManagementAPI",
+      "RelativePath": "index#[.{fingerprint=jx4141h1om}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\winni\\OneDrive\\Desktop\\Web-Test-Le-Hoai-Nam\\ProductManagementAPI\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ycs2denn0b",
+      "Integrity": "ElESf06+wgU9W849jU38e+DtNk81Dfe1ljGl8B13KVE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\winni\\OneDrive\\Desktop\\Web-Test-Le-Hoai-Nam\\ProductManagementAPI\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\winni\\OneDrive\\Desktop\\Web-Test-Le-Hoai-Nam\\ProductManagementAPI\\obj\\Release\\net9.0\\compressed\\ul3e0v044x-4uy58b3syz.gz",
+      "SourceId": "ProductManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\winni\\OneDrive\\Desktop\\Web-Test-Le-Hoai-Nam\\ProductManagementAPI\\obj\\Release\\net9.0\\compressed\\",
+      "BasePath": "_content/ProductManagementAPI",
+      "RelativePath": "styles#[.{fingerprint=4uy58b3syz}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\winni\\OneDrive\\Desktop\\Web-Test-Le-Hoai-Nam\\ProductManagementAPI\\wwwroot\\styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "qmpj8uc64v",
+      "Integrity": "fneLvhkHwevwEHIkTxd9TRPu1X5XJHUpCoZ7gLA0dMU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\winni\\OneDrive\\Desktop\\Web-Test-Le-Hoai-Nam\\ProductManagementAPI\\wwwroot\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\winni\\OneDrive\\Desktop\\Web-Test-Le-Hoai-Nam\\ProductManagementAPI\\wwwroot\\index.html",
+      "SourceId": "ProductManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\winni\\OneDrive\\Desktop\\Web-Test-Le-Hoai-Nam\\ProductManagementAPI\\wwwroot\\",
+      "BasePath": "_content/ProductManagementAPI",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jx4141h1om",
+      "Integrity": "ybjPKsud832ugHS9EjfZT1RQCRjTqaWE5Xs1sbeZRUE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\winni\\OneDrive\\Desktop\\Web-Test-Le-Hoai-Nam\\ProductManagementAPI\\wwwroot\\script.js",
+      "SourceId": "ProductManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\winni\\OneDrive\\Desktop\\Web-Test-Le-Hoai-Nam\\ProductManagementAPI\\wwwroot\\",
+      "BasePath": "_content/ProductManagementAPI",
+      "RelativePath": "script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ngxg0mvr7f",
+      "Integrity": "Z9X8C1bV+6IiG7QlsCUpCqnUOsBpnPbd6bNBb/hH1Ec=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\winni\\OneDrive\\Desktop\\Web-Test-Le-Hoai-Nam\\ProductManagementAPI\\wwwroot\\styles.css",
+      "SourceId": "ProductManagementAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\winni\\OneDrive\\Desktop\\Web-Test-Le-Hoai-Nam\\ProductManagementAPI\\wwwroot\\",
+      "BasePath": "_content/ProductManagementAPI",
+      "RelativePath": "styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4uy58b3syz",
+      "Integrity": "nIMAuVilwucGPw+iwQDSyGjQJ+Q2N3Ov8XrXMsvpBf8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\winni\\OneDrive\\Desktop\\Web-Test-Le-Hoai-Nam\\ProductManagementAPI\\obj\\Release\\net9.0\\compressed\\u05wrljy9l-jx4141h1om.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000437445319"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2285"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ElESf06+wgU9W849jU38e+DtNk81Dfe1ljGl8B13KVE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 15:08:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ybjPKsud832ugHS9EjfZT1RQCRjTqaWE5Xs1sbeZRUE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ybjPKsud832ugHS9EjfZT1RQCRjTqaWE5Xs1sbeZRUE="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\winni\\OneDrive\\Desktop\\Web-Test-Le-Hoai-Nam\\ProductManagementAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ybjPKsud832ugHS9EjfZT1RQCRjTqaWE5Xs1sbeZRUE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 15:08:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ybjPKsud832ugHS9EjfZT1RQCRjTqaWE5Xs1sbeZRUE="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\winni\\OneDrive\\Desktop\\Web-Test-Le-Hoai-Nam\\ProductManagementAPI\\obj\\Release\\net9.0\\compressed\\u05wrljy9l-jx4141h1om.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2285"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ElESf06+wgU9W849jU38e+DtNk81Dfe1ljGl8B13KVE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 15:08:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ElESf06+wgU9W849jU38e+DtNk81Dfe1ljGl8B13KVE="
+        }
+      ]
+    },
+    {
+      "Route": "index.jx4141h1om.html",
+      "AssetFile": "C:\\Users\\winni\\OneDrive\\Desktop\\Web-Test-Le-Hoai-Nam\\ProductManagementAPI\\obj\\Release\\net9.0\\compressed\\u05wrljy9l-jx4141h1om.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000437445319"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2285"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ElESf06+wgU9W849jU38e+DtNk81Dfe1ljGl8B13KVE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 15:08:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ybjPKsud832ugHS9EjfZT1RQCRjTqaWE5Xs1sbeZRUE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jx4141h1om"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ybjPKsud832ugHS9EjfZT1RQCRjTqaWE5Xs1sbeZRUE="
+        }
+      ]
+    },
+    {
+      "Route": "index.jx4141h1om.html",
+      "AssetFile": "C:\\Users\\winni\\OneDrive\\Desktop\\Web-Test-Le-Hoai-Nam\\ProductManagementAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ybjPKsud832ugHS9EjfZT1RQCRjTqaWE5Xs1sbeZRUE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 15:08:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jx4141h1om"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ybjPKsud832ugHS9EjfZT1RQCRjTqaWE5Xs1sbeZRUE="
+        }
+      ]
+    },
+    {
+      "Route": "index.jx4141h1om.html.gz",
+      "AssetFile": "C:\\Users\\winni\\OneDrive\\Desktop\\Web-Test-Le-Hoai-Nam\\ProductManagementAPI\\obj\\Release\\net9.0\\compressed\\u05wrljy9l-jx4141h1om.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2285"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ElESf06+wgU9W849jU38e+DtNk81Dfe1ljGl8B13KVE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 15:08:54 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jx4141h1om"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ElESf06+wgU9W849jU38e+DtNk81Dfe1ljGl8B13KVE="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\Users\\winni\\OneDrive\\Desktop\\Web-Test-Le-Hoai-Nam\\ProductManagementAPI\\obj\\Release\\net9.0\\compressed\\0h0nugvl6e-ngxg0mvr7f.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000270929287"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3690"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nTgImHDTl/kzCH4a3HETlwn2vkU+doTIQVJqdubCNVo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 15:10:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Z9X8C1bV+6IiG7QlsCUpCqnUOsBpnPbd6bNBb/hH1Ec=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z9X8C1bV+6IiG7QlsCUpCqnUOsBpnPbd6bNBb/hH1Ec="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\Users\\winni\\OneDrive\\Desktop\\Web-Test-Le-Hoai-Nam\\ProductManagementAPI\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18334"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z9X8C1bV+6IiG7QlsCUpCqnUOsBpnPbd6bNBb/hH1Ec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 15:10:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z9X8C1bV+6IiG7QlsCUpCqnUOsBpnPbd6bNBb/hH1Ec="
+        }
+      ]
+    },
+    {
+      "Route": "script.js.gz",
+      "AssetFile": "C:\\Users\\winni\\OneDrive\\Desktop\\Web-Test-Le-Hoai-Nam\\ProductManagementAPI\\obj\\Release\\net9.0\\compressed\\0h0nugvl6e-ngxg0mvr7f.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3690"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nTgImHDTl/kzCH4a3HETlwn2vkU+doTIQVJqdubCNVo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 15:10:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nTgImHDTl/kzCH4a3HETlwn2vkU+doTIQVJqdubCNVo="
+        }
+      ]
+    },
+    {
+      "Route": "script.ngxg0mvr7f.js",
+      "AssetFile": "C:\\Users\\winni\\OneDrive\\Desktop\\Web-Test-Le-Hoai-Nam\\ProductManagementAPI\\obj\\Release\\net9.0\\compressed\\0h0nugvl6e-ngxg0mvr7f.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000270929287"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3690"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nTgImHDTl/kzCH4a3HETlwn2vkU+doTIQVJqdubCNVo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 15:10:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Z9X8C1bV+6IiG7QlsCUpCqnUOsBpnPbd6bNBb/hH1Ec=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ngxg0mvr7f"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z9X8C1bV+6IiG7QlsCUpCqnUOsBpnPbd6bNBb/hH1Ec="
+        }
+      ]
+    },
+    {
+      "Route": "script.ngxg0mvr7f.js",
+      "AssetFile": "C:\\Users\\winni\\OneDrive\\Desktop\\Web-Test-Le-Hoai-Nam\\ProductManagementAPI\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18334"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z9X8C1bV+6IiG7QlsCUpCqnUOsBpnPbd6bNBb/hH1Ec=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 15:10:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ngxg0mvr7f"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z9X8C1bV+6IiG7QlsCUpCqnUOsBpnPbd6bNBb/hH1Ec="
+        }
+      ]
+    },
+    {
+      "Route": "script.ngxg0mvr7f.js.gz",
+      "AssetFile": "C:\\Users\\winni\\OneDrive\\Desktop\\Web-Test-Le-Hoai-Nam\\ProductManagementAPI\\obj\\Release\\net9.0\\compressed\\0h0nugvl6e-ngxg0mvr7f.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3690"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nTgImHDTl/kzCH4a3HETlwn2vkU+doTIQVJqdubCNVo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 15:10:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ngxg0mvr7f"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nTgImHDTl/kzCH4a3HETlwn2vkU+doTIQVJqdubCNVo="
+        }
+      ]
+    },
+    {
+      "Route": "styles.4uy58b3syz.css",
+      "AssetFile": "C:\\Users\\winni\\OneDrive\\Desktop\\Web-Test-Le-Hoai-Nam\\ProductManagementAPI\\obj\\Release\\net9.0\\compressed\\ul3e0v044x-4uy58b3syz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000211864407"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4719"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fneLvhkHwevwEHIkTxd9TRPu1X5XJHUpCoZ7gLA0dMU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 15:09:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nIMAuVilwucGPw+iwQDSyGjQJ+Q2N3Ov8XrXMsvpBf8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4uy58b3syz"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nIMAuVilwucGPw+iwQDSyGjQJ+Q2N3Ov8XrXMsvpBf8="
+        }
+      ]
+    },
+    {
+      "Route": "styles.4uy58b3syz.css",
+      "AssetFile": "C:\\Users\\winni\\OneDrive\\Desktop\\Web-Test-Le-Hoai-Nam\\ProductManagementAPI\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25717"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nIMAuVilwucGPw+iwQDSyGjQJ+Q2N3Ov8XrXMsvpBf8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 15:09:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4uy58b3syz"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nIMAuVilwucGPw+iwQDSyGjQJ+Q2N3Ov8XrXMsvpBf8="
+        }
+      ]
+    },
+    {
+      "Route": "styles.4uy58b3syz.css.gz",
+      "AssetFile": "C:\\Users\\winni\\OneDrive\\Desktop\\Web-Test-Le-Hoai-Nam\\ProductManagementAPI\\obj\\Release\\net9.0\\compressed\\ul3e0v044x-4uy58b3syz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4719"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fneLvhkHwevwEHIkTxd9TRPu1X5XJHUpCoZ7gLA0dMU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 15:09:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4uy58b3syz"
+        },
+        {
+          "Name": "label",
+          "Value": "styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fneLvhkHwevwEHIkTxd9TRPu1X5XJHUpCoZ7gLA0dMU="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "C:\\Users\\winni\\OneDrive\\Desktop\\Web-Test-Le-Hoai-Nam\\ProductManagementAPI\\obj\\Release\\net9.0\\compressed\\ul3e0v044x-4uy58b3syz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000211864407"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4719"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fneLvhkHwevwEHIkTxd9TRPu1X5XJHUpCoZ7gLA0dMU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 15:09:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"nIMAuVilwucGPw+iwQDSyGjQJ+Q2N3Ov8XrXMsvpBf8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nIMAuVilwucGPw+iwQDSyGjQJ+Q2N3Ov8XrXMsvpBf8="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css",
+      "AssetFile": "C:\\Users\\winni\\OneDrive\\Desktop\\Web-Test-Le-Hoai-Nam\\ProductManagementAPI\\wwwroot\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25717"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nIMAuVilwucGPw+iwQDSyGjQJ+Q2N3Ov8XrXMsvpBf8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 15:09:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nIMAuVilwucGPw+iwQDSyGjQJ+Q2N3Ov8XrXMsvpBf8="
+        }
+      ]
+    },
+    {
+      "Route": "styles.css.gz",
+      "AssetFile": "C:\\Users\\winni\\OneDrive\\Desktop\\Web-Test-Le-Hoai-Nam\\ProductManagementAPI\\obj\\Release\\net9.0\\compressed\\ul3e0v044x-4uy58b3syz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4719"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fneLvhkHwevwEHIkTxd9TRPu1X5XJHUpCoZ7gLA0dMU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 09 Mar 2025 15:09:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fneLvhkHwevwEHIkTxd9TRPu1X5XJHUpCoZ7gLA0dMU="
+        }
+      ]
+    }
+  ]
+}
